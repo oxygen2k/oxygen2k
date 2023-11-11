@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @oxygen2k
+- 👀 I’m interested in sustainabilty
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on ChatGPT Plugins
